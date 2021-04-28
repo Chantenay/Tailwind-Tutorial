@@ -1,4 +1,4 @@
-# tailwind-tute
+# Tailwind Tutorial
 
 Learning tailwind by following along with this youtube series
 
